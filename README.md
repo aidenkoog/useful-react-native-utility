@@ -7,36 +7,30 @@
 - Language: Typescript
 - Structure Summary
   - ✨ assets
-    - ✨ Fonts
-    - ✨ Images
-    - ✨ Strings
   - ✨ data
-    - ✨ adapters
-    - ✨ repositories
-    - ✨ sources
   - ✨ domain
-    - ✨ entities
-    - ✨ usecases
   - ✨ presentation
-    - ✨ components
-    - ✨ containers
-    - ✨ stylesheets
   - ✨ utils
-    - ✨ alert
-    - ✨ ble
-    - ✨ common
-    - ✨ logger
-    - ✨ navigation
-    - ✨ permission
-    - ✨ storage
-    - ✨ theme
-    - ✨ time
-    - ✨ toast
+
+#### Utilities provided in this repository.
+
+- Alert
+- BLE
+- Common
+- Logger
+- Navigation
+- Permission
+- Storage
+- Theme
+- Time
+- Toast
+- Constants
 
 #### Release Note
 
 - 2023/03/07: Initalize react-native typescript project.
 - 2023/03/08: Update utility functions / classes / usecases.
+- 2023/03/08: Update README.md
 
 #### Build Trouble Shooting
 
